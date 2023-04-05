@@ -4,4 +4,4 @@ Interests: C++, Rust, C, Algorithms and Data Structures, Discrete Math, Graph Th
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperb0reanlayout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperb0rean&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
