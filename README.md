@@ -2,7 +2,7 @@
 
 Position: Saint-Petersburg Research Center Engnineer-Assistant.
 
-Education: Russia, Saint-Petersburg, ITMO University CSE BSc 25'. YSDA Big Data Infrastructure 25'
+Education: Russia, Saint-Petersburg, ITMO University Computer Science and Engineering BSc 25'. YSDA Big Data Infrastructure 25'
 
 Interests: C++, Rust, C, Concurrency, Algorithms and Data Structures, System Design, Discrete Math, Graph Theory, Abstract and Linear Algebra, Functional Analysis, Group Theory, Galois Theory, Music and Philosophy.
 
