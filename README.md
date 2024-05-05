@@ -7,6 +7,10 @@ Saint-Petersburg Research Center Engnineer-Assistant
  - ITMO University Computer Science and Engineering BSc 25'
  - YSDA Big Data Infrastructure 25'
 
+### Teaching
+ - ex. ITMO Discrete Math and Abstract Algebra assistant.
+ - ITMO Algorithms and Data Structures assistant.
+
 ### Interests
 - C++, Rust, C
 - Concurrency, Databases, Algorithms and Data Structures, System Design
