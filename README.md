@@ -13,7 +13,7 @@ Saint-Petersburg Research Center Engnineer-Assistant
 
 ### Interests
 - C++, Rust, C
-- Networking, Concurrency, Databases, Algorithms and Data Structures, System Design
+- Networking, Distributed Systems, Concurrency, Databases, Algorithms and Data Structures, System Design
 - Discrete Math, Graph Theory, Probability Theory, Abstract and Linear Algebra, Functional Analysis, Group Theory, Galois Theory
 - Music, Cinema and Philosophy
 
