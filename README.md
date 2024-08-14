@@ -1,7 +1,7 @@
 # Hello I am Hyperb0rean!
 
 ### Current Position 
-Saint-Petersburg Research Center Engnineer-Assistant
+Huawei Saint-Petersburg Research Center Engnineer-Assistant
 
 ### Education
  - ITMO University Computer Science and Engineering BSc 25'
@@ -24,5 +24,5 @@ Saint-Petersburg Research Center Engnineer-Assistant
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Hyperb0rean&show_icons=true&count_private=true"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperb0rean&exclude_repo=teaching&layout=pie&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperb0rean&layout=pie&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </p>
