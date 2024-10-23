@@ -1,7 +1,7 @@
 # Hello I am Hyperb0rean!
 
 ### Current Position 
-Huawei Saint-Petersburg Research Center Engnineer-Assistant
+Huawei Saint-Petersburg Research Center Networking Engnineer
 
 ### Education
  - ITMO University Computer Science and Engineering BSc 25'
@@ -12,8 +12,8 @@ Huawei Saint-Petersburg Research Center Engnineer-Assistant
  - ITMO Algorithms and Data Structures assistant.
 
 ### Interests
-- C++, Rust, C
-- Networking, Distributed Systems, Concurrency, Databases, Algorithms and Data Structures, System Design
+- C++, Rust, C, Coq
+- Networking, Distributed Systems, Concurrency, Databases, Algorithms and Data Structures
 - Discrete Math, Graph Theory, Probability Theory, Abstract and Linear Algebra, Functional Analysis, Group Theory, Galois Theory
 - Music, Cinema and Philosophy
 
