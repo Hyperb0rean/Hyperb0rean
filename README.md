@@ -12,8 +12,8 @@ Huawei Saint-Petersburg Research Center Networking Engnineer
  - ITMO Algorithms and Data Structures assistant.
 
 ### Interests
-- C++, Rust, C, Coq
-- Networking, Distributed Systems, Concurrency, Databases, Algorithms and Data Structures
+- C++, Rust, C, Coq, OCaml, TLA+
+- Networking, Distributed Systems, Formal Verification Methods, Concurrency, HPC, Databases, Algorithms and Data Structures
 - Discrete Math, Graph Theory, Probability Theory, Abstract and Linear Algebra, Functional Analysis, Group Theory, Galois Theory
 - Music, Cinema and Philosophy
 
