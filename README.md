@@ -20,9 +20,9 @@ Huawei Saint-Petersburg Research Center Networking Engnineer
 
 
 <p>
-<a href="https://github-readme-stats.vercel.app/api?username=Hyperb0rean&show_icons=true&count_private=true&lang_count=10&hide=java">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=Hyperb0rean&show_icons=true&count_private=true&lang_count=10&hide=java"/>
+<a href="https://github-readme-stats.vercel.app/api?username=Hyperb0rean&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=Hyperb0rean&show_icons=true&count_private=true"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperb0rean&layout=pie&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperb0rean&layout=pie&count_private=true&lang_count=10&hide=java,python,cmake)](https://github.com/anuraghazra/github-readme-stats)
 </p>
