@@ -9,7 +9,7 @@ Huawei Saint-Petersburg Research Center Networking Engnineer
 
 ### Teaching
  - ex. ITMO Discrete Math and Abstract Algebra assistant.
- - ITMO Algorithms and Data Structures assistant.
+ - ITMO Algorithms and Data Structures assistant and lecturer.
 
 ### Interests
 - C++, Rust, C, Coq, OCaml, TLA+
