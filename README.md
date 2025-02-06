@@ -5,11 +5,13 @@ Huawei Saint-Petersburg Research Center Networking Engnineer
 
 ### Education
  - ITMO University Computer Science and Engineering BSc 25'
+   WIP Thesis: Formal Verification of Mesh-Network formation algorithm.
  - YSDA Big Data Infrastructure 25'
 
 ### Teaching
  - ex. ITMO Discrete Math and Abstract Algebra assistant.
- - ITMO Algorithms and Data Structures BS assistant and MS lecturer.
+ - ex. ITMO Algorithms and Data Structures BS assistant and MS lecturer.
+ - ITMO C++ assistant
 
 ### Interests
 - C++, Rust, C, Coq, OCaml, TLA+
