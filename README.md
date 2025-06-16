@@ -5,7 +5,7 @@ Huawei Saint-Petersburg Research Center Networking Engnineer
 
 ### Education
  - ITMO University Computer Science and Engineering BSc 25'.
-   (WIP) Thesis: Formal Verification of Mesh-Network formation algorithm.
+   Thesis: Formal verification of mesh-network formation algorithm.
  - YSDA Big Data Infrastructure 25'
 
 ### Teaching
