@@ -1,12 +1,14 @@
 # Hello I am Hyperb0rean!
 
-### Current Position 
-Huawei Saint-Petersburg Research Center Networking Engnineer
+### Experience 
+ - ex. Huawei Saint-Petersburg Research Center Networking Engnineer
+- TBank SaaS C++ developer 
 
 ### Education
  - ITMO University Computer Science and Engineering BSc 25'.
    Thesis: Formal verification of mesh-network formation algorithm.
  - YSDA Big Data Infrastructure 25'
+ - ITMO University Computer Science MSc 27'
 
 ### Teaching
  - ex. ITMO Discrete Math and Abstract Algebra assistant.
